@@ -4,7 +4,7 @@ Lorem ipsum i am too lazy figure what it does yourself
 
 You might be lazy too so here ya go:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patheticGeek/torrent-aio-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tks18/torrent-aio-bot)
 
 ## TODO after deploy
 
