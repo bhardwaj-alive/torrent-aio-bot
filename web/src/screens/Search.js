@@ -69,4 +69,6 @@ function Search({ api }) {
   );
 }
 
+Search.defaultProps = { api: "https://glorytoheaven-tg.herokuapp.com/" };
+
 export default Search;
